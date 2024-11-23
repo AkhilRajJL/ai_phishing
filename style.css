@@ -1,0 +1,25 @@
+.hai{
+    text-decoration: none;
+ 
+    text-align: center;
+}
+.set1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+   
+}
+.login_bottom_button{
+    width:100px;
+}
+.head{
+    color: orange;
+}
+
+@media(max-width:700px){
+    .img{
+        display: none;
+    }
+}
